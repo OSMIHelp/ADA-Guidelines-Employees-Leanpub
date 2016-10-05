@@ -1,4 +1,4 @@
-# Open Sourcing Mental Illness<br> Mental Health in Tech: Guidelines for Employees
+# Open Sourcing Mental Illness Mental Health in Tech: Guidelines for Employees
 
 ![](./images/osmi-logo-big.png)
 
