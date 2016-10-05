@@ -1,6 +1,6 @@
 # Open Sourcing Mental Illness Mental Health in Tech: Guidelines for Employees
 
-![](./images/osmi-logo-big.png)
+![](images/osmi-logo-big.png)
 
 ---
 
@@ -8,19 +8,7 @@
 
 This document was compiled by Open Sourcing Mental Illness contributors using EEOC guidelines; these contributors are not attorneys and the Open Sourcing Mental Illness materials do not constitute legal advice of any type. By using these materials, you agree to accept this disclaimer. Every effort has been made to ensure the accuracy of information shared through the Open Sourcing Mental Illness materials, however, because information is constantly evolving, Open Sourcing Mental Illness cannot be held responsible for the accuracy, errors or omissions related to the Open Sourcing Mental Illness materials. The information provided in the Open Sourcing Mental Illness materials are for educational and informational purposes only. You agree to use your own due diligence and judgment before applying any recommendation or advice that you may receive on or through the materials provided by Open Sourcing Mental Illness. Please contact your employment counsel or [info@eeoc.gov](mailto:info@eeoc.gov) for more information and guidance.
 
-<div class="panel panel-info">
-    <div class="panel-body">
-        <p class="text-info">
-            <i class="fa fa-pull-left fa-3x fa-creative-commons"></i>
-            <small>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> license.</small>
-        </p>
-    </div>
-</div>
----
-
-# Table of Contents
-
-<!--TOC max3-->
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
 
 ---
 
