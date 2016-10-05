@@ -83,16 +83,20 @@ Note: While employers are not required to eliminate an essential function, lower
 **For more information visit: [http://www.eeoc.gov/employees/](http://www.eeoc.gov/employees/) or contact:**
 
 **Equal Employment Opportunity Commission**
+
 info@eeoc.gov
+
 P.O. Box 7033
+
 Lawrence, Kansas 66044
+
 (800) 669-4000 (Voice), (800) 669-6820 (TDD)
 
----
+{pagebreak}
 
 **Purpose:** The following handbook  consists of compiled  guidelines for employees  to reference when considering legal rights as an individual with a mental health impairment, including direction from the Equal Employment Opportunity Commision (EEOC) regarding  the Americans with Disabilities Act (ADA).
 
----
+{pagebreak}
 
 # Section I: The Americans with Disabilities Act - Your Employment Rights as an Individual with a Disability
 
@@ -232,7 +236,7 @@ A. Yes. The ADA does not affect pre-existing condition clauses contained in heal
 
 A. No. The ADA only requires that an employer provide employees with disabilities equal access to whatever health insurance coverage is offered to other employees.
 
----
+{pagebreak}
 
 # Section II: Reasonable Accommodations
 
@@ -284,7 +288,7 @@ Employers may require documentation that establishes how your condition limits j
 * __The need for a reasonable accommodation.__ Explain how your condition makes changes at work necessary. For example, if you need an accommodation to perform a particular job function, you should explain how your symptoms - _as they actually are, with treatment_ - make performing the function more difficult. If necessary, provide a description of your job duties. _Limit your discussion to the specific problems that may be helped by a reasonable accommodation. Also explain to the employer why you may need an accommodation_ such as a schedule change (e.g., to attend a therapy appointment during the workday) or time off (e.g., to adjust to a new medication, receive treatment, or recover).
 * __Suggested Accommodation(s).__ If you are aware of an effective accommodation, you may suggest it. Do not overstate the need for a particular accommodation, in case an alternative is necessary.
 
----
+{pagebreak}
 
 # Section III: Accommodations for Mental Health Impairments
 *(From the Job Accommodation Network)*
@@ -496,7 +500,7 @@ Supervisors can also implement management techniques that support an inclusive w
 * Do not mandate that employees attend work related social functions, and
 * Encourage all employees to move non-work-related conversations out of work areas.
 
----
+{pagebreak}
 
 # Section IV: Resources
 
@@ -533,7 +537,7 @@ Washington, DC 20590
 (202) 366-9305
 (202) 755-7687 (TDD)
 
----
+{pagebreak}
 
 # Section V: References
 
