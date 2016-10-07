@@ -98,7 +98,7 @@ Lawrence, Kansas 66044
 
 {pagebreak}
 
-# Section I: The Americans with Disabilities Act - Your Employment Rights as an Individual with a Disability
+# Section I: The ADA Act - Your Employment Rights as an Individual with a Disability
 
 [The Americans with Disabilities Act of 1990](https://www.eeoc.gov/laws/statutes/ada.cfm) (ADA) makes it unlawful to discriminate in employment against a qualified individual with a disability. The ADA also outlaws discrimination against individuals with disabilities in State and local government services, public accommodations, transportation and telecommunications. This booklet explains the part of the ADA that prohibits job discrimination. This part of the law is enforced by the U.S. Equal Employment Opportunity Commission and State and local civil rights enforcement agencies that work with the Commission.
 
