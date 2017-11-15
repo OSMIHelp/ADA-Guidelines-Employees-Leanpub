@@ -6,7 +6,7 @@
 
 # Disclaimer
 
-This document was compiled by Open Sourcing Mental Illness contributors using EEOC guidelines; these contributors are not attorneys and the Open Sourcing Mental Illness materials do not constitute legal advice of any type. By using these materials, you agree to accept this disclaimer. Every effort has been made to ensure the accuracy of information shared through the Open Sourcing Mental Illness materials, however, because information is constantly evolving, Open Sourcing Mental Illness cannot be held responsible for the accuracy, errors or omissions related to the Open Sourcing Mental Illness materials. The information provided in the Open Sourcing Mental Illness materials are for educational and informational purposes only. You agree to use your own due diligence and judgment before applying any recommendation or advice that you may receive on or through the materials provided by Open Sourcing Mental Illness. Please contact your employment counsel or [info@eeoc.gov](mailto:info@eeoc.gov) for more information and guidance.
+This document was compiled by Open Sourcing Mental Illness contributors using EEOC guidelines; these contributors are not attorneys and the Open Sourcing Mental Illness materials do not constitute legal advice of any type. By using these materials, you agree to accept this disclaimer. Every effort has been made to ensure the accuracy of information shared through the Open Sourcing Mental Illness materials, however, because information is constantly evolving, Open Sourcing Mental Illness cannot be held responsible for accuracy, errors, or omissions related to the Open Sourcing Mental Illness materials. The information provided in the Open Sourcing Mental Illness materials are for educational and informational purposes only. You agree to use your own due diligence and judgment before applying any recommendation or advice that you may receive on or through the materials provided by Open Sourcing Mental Illness. Please contact your employment counsel or [info@eeoc.gov](mailto:info@eeoc.gov) for more information and guidance.
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
 
@@ -14,17 +14,17 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 # Americans with Disabilities Act Cheat Sheet
 
-## What is the ADA?
+## What Is the ADA?
 
-Title I of the Americans with Disabilities Act of 1990 prohibits private employers, state and local governments, employment agencies and labor unions from discriminating against qualified individuals with disabilities in job application procedures, hiring, firing, advancement, compensation, job training, and other terms, conditions, and privileges of employment.
+Title I of the Americans with Disabilities Act of 1990 (ADA) prohibits private employers, state and local governments, employment agencies, and labor unions from discriminating against qualified individuals with disabilities in job application procedures, hiring, firing, advancement, compensation, job training, and other terms, conditions, and privileges of employment.
 
-## Does my employer have to comply with the ADA?
+## Does My Employer Have to Comply With the ADA?
 
-Only employers with 15 or more employees. State and local government employers must also comply with the ADA. Federal executive agencies are exempt from the ADA, but they have to comply with the Rehabilitation Act of 1973, which is almost identical to the ADA.
+Only employers with 15 or more employees must comply with the ADA. State and local government employers must also comply with the ADA. Federal executive agencies are exempt from the ADA, but they have to comply with the Rehabilitation Act of 1973, which is almost identical to the ADA.
 
-## How do I know if I have rights under the ADA?
+## How Do I Know If I Have Rights Under the ADA?
 
-Title I protects qualified employees with disabilities.
+Title I of the ADA protects qualified employees with disabilities.
 
 The definition of disability includes:
 
@@ -34,37 +34,37 @@ The definition of disability includes:
 
 3. a person who is regarded as having a physical or mental impairment that substantially limits one or more major life activities.
 
-## What is a “Mental Impairment”?
+## What Is a “Mental Impairment”?
 
-A substantial impairment in a major life activity that would substantially limit that major life activity.
+A mental impairment is a substantial impairment in a major life activity that would substantially limit that major life activity.
 
-Major life activities that can be impaired by a mental impairment include but are not limited to
+Major life activities that can be limited by a mental impairment include but are not limited to:
 
 * thinking
 * concentrating
 * interacting with others
 
-## How do I know when to request an accommodation?
+## How Do I Know When to Request an Accommodation?
 
-You can request an accommodation at any time during the application process or while you are employed. You can request an accommodation even if you did not ask for one when applying for a job or after receiving a job offer. In general, you should request an accommodation when you know that there is a workplace barrier that is preventing you, due to a disability, from competing for a job, performing a job, or gaining equal access to a benefit of employment like an employee lunch room or employee parking. As a practical matter, it is better to request an accommodation before your job performance suffers or conduct problems occur because employers do not have to rescind discipline that occurred before they knew about your disability.
+You can request an accommodation at any time during the application process or while you are employed. You can request an accommodation even if you did not ask for one when applying for a job or after receiving a job offer. In general, you should request an accommodation when you know that there is a workplace barrier that is preventing you, due to a disability, from competing for a job, performing a job, or gaining equal access to a benefit of employment like an employee lunch room or employee parking. As a practical matter, it is better to request an accommodation before your job performance suffers or conduct problems occur because then employers will not have to rescind any discipline that occurred before they were made aware of your accommodation needs or disability.
 
-## How do I request an accommodation?
+## How Do I Request an Accommodation?
 
-According to the EEOC, you only have to let your employer know that you need an adjustment or change at work for a reason related to a medical condition. You can use "plain English" to make your request and you do not have to mention the ADA or use the phrase "reasonable accommodation."
+According to the U.S. Equal Employment Opportunity Commission (EEOC), you only have to let your employer know that you need an adjustment or change at work for a reason related to a medical condition. You can use "plain English" to make your request, and you do not have to mention the ADA or use the phrase "reasonable accommodation".
 
-Requests for reasonable accommodation do not have to be in writing so you can request accommodations in a face-to-face conversation or using any other method of communication. Your employer may choose to write a memo or letter confirming your request or may ask you to fill out a form or submit the request in written form, but employer cannot ignore your initial request. However, you may want to put your request in writing even if your employer does not require it. Sometimes it is useful to have a paper trail in case there is a dispute about whether or when you requested accommodation.
+Requests for reasonable accommodation do not have to be in writing. you can request accommodations in a face-to-face conversation or using any other method of communication. Your employer may choose to write a memo or letter confirming your request. They may ask you to fill out a form or submit the request in written form, but your employer cannot ignore your initial request. However, you may want to put your request in writing even if your employer does not require it. Sometimes, it is useful to have a paper trail in case there is a dispute about when or whether you requested accommodation.
 
-## Do I have to tell my employer that I have a disability?
+## Do I Have to Tell My Employer That I Have a Disability?
 
 Under the ADA, employers are only required to provide accommodations for employees who are experiencing workplace problems because of a disability. Therefore, unless you let your employer know that you have a disability, the employer is not obligated to consider accommodations under the ADA.
 
-## How much medical information do I have to provide to my employer?
+## How Much Medical Information Do I Have to Provide to My Employer?
 
-Some employees do not want to give their employers a lot of details about their disability. If you prefer not to give a lot of information, you may want to limit the medical information you initially give to your employer when you request an accommodation. For example, you may want to tell your employer what you are having trouble doing, that the problem is related to a disability, and what your accommodation ideas are. Some employers will not ask for more information. However, employers have the right to request additional medical information when an employee requests an accommodation and if you do not provide it, the employer can deny your accommodation request. When an employee requests an accommodation and the disability or need for accommodation is not obvious, an employer may require that the employee provide medical documentation to establish that the employee has an ADA disability and needs the requested accommodation.
+Some employees do not want to give their employers a lot of details about their disability. If you prefer not to give a lot of information, you may want to limit the medical information you initially give to your employer when you request an accommodation. For example, you may want to tell your employer what you are having trouble doing, that the problem is related to a disability, and what your accommodation ideas are. Some employers will not ask for more information. However, employers have the right to request additional medical information when an employee requests an accommodation and if you do not provide it, the employer can deny your accommodation request. When an employee requests an accommodation and the disability or need for accommodation is not obvious, an employer may require that the employee provide medical documentation to establish that the employee has an ADA-qualifying disability and needs the requested accommodation.
 
-## What accommodations can I request?
+## What Accommodations Can I Request?
 
-In general, an accommodation is any change in the work environment or in the way things are customarily done that enables an individual with a disability to enjoy equal employment opportunities. Under the ADA, employers are required to provide “reasonable” accommodations for employees with disabilities. Therefore, you can request any accommodation that is considered “reasonable.”
+In general, an accommodation is any change in the work environment or in the way things are customarily done that enables an individual with a disability to enjoy equal employment opportunities. Under the ADA, employers are required to provide “reasonable” accommodations for employees with disabilities. Therefore, you can request any accommodation that is considered “reasonable”.
 
 Here are some examples of reasonable accommodations from the EEOC:
 
