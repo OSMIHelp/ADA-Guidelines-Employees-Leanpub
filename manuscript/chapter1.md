@@ -94,15 +94,15 @@ Lawrence, Kansas 66044
 
 {pagebreak}
 
-**Purpose:** The following handbook  consists of compiled  guidelines for employees  to reference when considering legal rights as an individual with a mental health impairment, including direction from the Equal Employment Opportunity Commision (EEOC) regarding  the Americans with Disabilities Act (ADA).
+**Purpose:** The following handbook consists of compiled guidelines for employees to reference when considering legal rights as an individual with a mental health impairment, including direction from the Equal Employment Opportunity Commission (EEOC) regarding the Americans with Disabilities Act (ADA).
 
 {pagebreak}
 
-# Section I: The ADA Act - Your Employment Rights as an Individual with a Disability
+# Section I: The ADA - Your Employment Rights as an Individual With a Disability
 
-[The Americans with Disabilities Act of 1990](https://www.eeoc.gov/laws/statutes/ada.cfm) (ADA) makes it unlawful to discriminate in employment against a qualified individual with a disability. The ADA also outlaws discrimination against individuals with disabilities in State and local government services, public accommodations, transportation and telecommunications. This booklet explains the part of the ADA that prohibits job discrimination. This part of the law is enforced by the U.S. Equal Employment Opportunity Commission and State and local civil rights enforcement agencies that work with the Commission.
+[The Americans with Disabilities Act of 1990](https://www.eeoc.gov/laws/statutes/ada.cfm) (ADA) makes it unlawful to discriminate in employment against a qualified individual with a disability. The ADA also outlaws discrimination against individuals with disabilities in State and local government services, public accommodations, transportation, and telecommunications. This booklet explains the part of the ADA that prohibits job discrimination. This part of the law is enforced by the U.S. Equal Employment Opportunity Commission and State and local civil rights enforcement agencies that work with the EEOC.
 
-## What Employers Are Covered by the ADA?
+## Which Employers Are Covered by the ADA?
 
 Job discrimination against people with disabilities is illegal if practiced by:
 
@@ -119,9 +119,9 @@ The part of the ADA enforced by the EEOC outlaws job discrimination by:
 
 Another part of the ADA, enforced by the U.S. Department of Justice, prohibits discrimination in State and local government programs and activities, including discrimination by all State and local governments, regardless of the number of employees, after January 26, 1992.
 
-Because the ADA establishes overlapping responsibilities in both EEOC and DOJ for employment by State and local governments, the Federal enforcement effort is coordinated by EEOC and DOJ to avoid duplication in investigative and enforcement activities. In addition, since some private and governmental employers are already covered by nondiscrimination and affirmative action requirements under the Rehabilitation Act of 1973, EEOC, DOJ, and the Department of Labor similarly coordinate the enforcement effort under the ADA and the Rehabilitation Act.
+Because the ADA establishes overlapping responsibilities in both the EEOC and the Department of Justice (DOJ) for employment by State and local governments, the Federal enforcement effort is coordinated by the EEOC and the DOJ to avoid duplication in investigative and enforcement activities. In addition, since some private and governmental employers are already covered by nondiscrimination and affirmative action requirements under the Rehabilitation Act of 1973, the EEOC, the DOJ, and the Department of Labor similarly coordinate the enforcement effort under the ADA and the Rehabilitation Act.
 
-## Are You Protected by The ADA?
+## Are You Protected by the ADA?
 
 If you have a disability and are qualified to do a job, the ADA protects you from job discrimination on the basis of your disability. Under the ADA, you have a disability if you have a physical or mental impairment that substantially limits a major life activity. The ADA also protects you if you have a history of such a disability, or if an employer believes that you have such a disability, even if you don't.
 
