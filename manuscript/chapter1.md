@@ -125,9 +125,9 @@ Because the ADA establishes overlapping responsibilities in both the EEOC and th
 
 If you have a disability and are qualified to do a job, the ADA protects you from job discrimination on the basis of your disability. Under the ADA, you have a disability if you have a physical or mental impairment that substantially limits a major life activity. The ADA also protects you if you have a history of such a disability, or if an employer believes that you have such a disability, even if you don't.
 
-To be protected under the ADA, you must have, have a record of, or be regarded as having a substantial, as opposed to a minor, impairment. A substantial impairment is one that significantly limits or restricts a major life activity such as hearing, seeing, speaking, walking, breathing, performing manual tasks, caring for oneself, learning or working.
+To be protected under the ADA, you must have, have a record of, or be regarded as having a substantial, as opposed to a minor, impairment. A substantial impairment is one that significantly limits or restricts a major life activity such as hearing, seeing, speaking, walking, breathing, performing manual tasks, caring for oneself, learning, or working.
 
-If you have a disability, you must also be qualified to perform the essential functions or duties of a job, with or without reasonable accommodation, in order to be protected from job discrimination by the ADA. This means two things. First, you must satisfy the employer's requirements for the job, such as education, employment experience, skills or licenses. Second, you must be able to perform the essential functions of the job with or without reasonable accommodation. Essential functions are the fundamental job duties that you must be able to perform on your own or with the help of a reasonable accommodation. An employer cannot refuse to hire you because your disability prevents you from performing duties that are not essential to the job.
+If you have a disability, you must also be qualified to perform the essential functions or duties of a job, with or without reasonable accommodation, in order to be protected from job discrimination by the ADA. This means two things. First, you must satisfy the employer's requirements for the job, such as education, employment experience, skills, or licenses. Second, you must be able to perform the essential functions of the job with or without reasonable accommodation. Essential functions are the fundamental job duties that you must be able to perform on your own or with the help of a reasonable accommodation. An employer cannot refuse to hire you because your disability prevents you from performing duties that are not essential to the job.
 
 ## What is Reasonable Accommodation?
 
@@ -141,13 +141,12 @@ Reasonable accommodation is any change or adjustment to a job or work environmen
 * providing readers and interpreters, and
 * making the workplace readily accessible to and usable by people with disabilities.
 
-An employer is required to provide a reasonable accommodation to a qualified applicant or employee with a disability unless the employer can show that the accommodation would be an undue hardship -- that is, that it would require significant difficulty or expense.
+An employer is required to provide a reasonable accommodation to a qualified applicant or employee with a disability unless the employer can show that the accommodation would be an undue hardship -- that is, it would require significant difficulty or expense.
 
-## What Employment Practices are Covered?
+## What Employment Practices Are Covered?
 
-The ADA makes it unlawful to discriminate in all employment
+The ADA makes it unlawful to discriminate in all employment practices such as:
 
-* practices such as:
 * recruitment
 * firing
 * hiring
@@ -160,7 +159,7 @@ The ADA makes it unlawful to discriminate in all employment
 * leave
 * all other employment related activities.
 
-It is also unlawful for an employer to retaliate against you for asserting your rights under the ADA. The Act also protects you if you are a victim of discrimination because of your family, business, social or other relationship or association with an individual with a disability.
+It is also unlawful for an employer to retaliate against you for asserting your rights under the ADA. The ADA also protects you if you are a victim of discrimination because of your family, business, social, or other relationship or association with an individual with a disability.
 
 ## Can an Employer Require Medical Examinations or Ask Questions About a Disability?
 
@@ -168,15 +167,15 @@ If you are applying for a job, an employer cannot ask you if you are disabled or
 
 An employer cannot require you to take a medical examination before you are offered a job. Following a job offer, an employer can condition the offer on your passing a required medical examination, but only if all entering employees for that job category have to take the examination. However, an employer cannot reject you because of information about your disability revealed by the medical examination, unless the reasons for rejection are job-related and necessary for the conduct of the employer's business. The employer cannot refuse to hire you because of your disability if you can perform the essential functions of the job with an accommodation.
 
-Once you have been hired and started work, your employer cannot require that you take a medical examination or ask questions about your disability unless they are related to your job and necessary for the conduct of your employer's business. Your employer may conduct voluntary medical examinations that are part of an employee health program, and may provide medical information required by State workers' compensation laws to the agencies that administer such laws.
+Once you have been hired and started work, your employer cannot require that you take a medical examination or ask questions about your disability unless they are related to your job and necessary for the conduct of your employer's business. Your employer may conduct voluntary medical examinations that are part of an employee health program and may provide medical information required by State workers' compensation laws to the agencies that administer such laws.
 
-The results of all medical examinations must be kept confidential, and maintained in separate medical files.
+The results of all medical examinations must be kept confidential and maintained in separate medical files.
 
 ## Do Individuals Who Use Drugs Illegally Have Rights Under the ADA?
 
 Anyone who is currently using drugs illegally is not protected by the ADA and may be denied employment or fired on the basis of such use. The ADA does not prevent employers from testing applicants or employees for current illegal drug use.
 
-## What Do I Do If I Think That I'm Being Discriminated Against?
+## What Do I Do if I Think That I'm Being Discriminated Against?
 
 If you think you have been discriminated against in employment on the basis of disability after July 26, 1992, you should contact the U.S. Equal Employment Opportunity Commission. A charge of discrimination generally must be filed within 180 days of the alleged discrimination. You may have up to 300 days to file a charge if there is a State or local law that provides relief for discrimination on the basis of disability. However, to protect your rights, it is best to contact EEOC promptly if discrimination is suspected.
 
