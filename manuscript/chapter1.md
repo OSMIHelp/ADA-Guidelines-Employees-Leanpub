@@ -177,13 +177,14 @@ Anyone who is currently using drugs illegally is not protected by the ADA and ma
 
 ## What Do I Do if I Think That I'm Being Discriminated Against?
 
-If you think you have been discriminated against in employment on the basis of disability after July 26, 1992, you should contact the U.S. Equal Employment Opportunity Commission. A charge of discrimination generally must be filed within 180 days of the alleged discrimination. You may have up to 300 days to file a charge if there is a State or local law that provides relief for discrimination on the basis of disability. However, to protect your rights, it is best to contact EEOC promptly if discrimination is suspected.
+If you think you have been discriminated against in employment on the basis of disability after July 26, 1992, you should contact the U.S. Equal Employment Opportunity Commission (EEOC). A charge of discrimination generally must be filed within 180 days of the alleged discrimination. You may have up to 300 days to file a charge if there is a State or local law that provides relief for discrimination on the basis of disability. However, to protect your rights, it is best to contact 
+the EEOC promptly if discrimination is suspected.
 
 You may file a charge of discrimination on the basis of disability by contacting any EEOC field office, located in cities throughout the United States. If you have been discriminated against, you are entitled to a remedy that will place you in the position you would have been in if the discrimination had never occurred. You may be entitled to hiring, promotion, reinstatement, back pay, or reasonable accommodation, including reassignment. You may also be entitled to attorneys fees.
 
 While the EEOC can only process ADA charges based on actions occurring on or after July 26, 1992, you may already be protected by State or local laws or by other current federal laws. EEOC field offices can refer you to the agencies that enforce those laws.
 
-To contact the EEOC, look in your telephone directory under "U.S. Government." For information and instructions on reaching your local office, call:
+To contact the EEOC, look in your telephone directory under "U.S. Government". For information and instructions on reaching your local office, call:
 
 * (800) 669-4000 (Voice)
 * (800) 669-6820 (TDD)
@@ -193,15 +194,15 @@ To contact the EEOC, look in your telephone directory under "U.S. Government." F
 
 The EEOC conducts an active technical assistance program to promote voluntary compliance with the ADA. This program is designed to help people with disabilities understand their rights and to help employers understand their responsibilities under the law.
 
-In January 1992, EEOC published a Technical Assistance Manual, providing practical application of legal requirements to specific employment activities, with a directory of resources to aid compliance. EEOC publishes other educational materials, provides training on the law for people with disabilities and for employers, and participates in meetings and training programs of other organizations. EEOC staff also will respond to individual requests for information and assistance. The Commission's technical assistance program is separate and distinct from its enforcement responsibilities. Employers who seek information or assistance from the Commission will not be subject to any enforcement action because of such inquiries.
+In January 1992, the EEOC published a Technical Assistance Manual, providing practical application of legal requirements to specific employment activities, with a directory of resources to aid compliance. The EEOC publishes other educational materials, provides training on the law for people with disabilities and for employers, and participates in meetings and training programs of other organizations. The EEOC staff also will respond to individual requests for information and assistance. The EEOC's technical assistance program is separate and distinct from its enforcement responsibilities. Employers who seek information or assistance from the EEOC will not be subject to any enforcement action because of such inquiries.
 
-The Commission also recognizes that differences and disputes about ADA requirements may arise between employers and people with disabilities as a result of misunderstandings. Such disputes frequently can be resolved more effectively through informal negotiation or mediation procedures, rather than through the formal enforcement process of the ADA. Accordingly, EEOC will encourage efforts of employers and individuals with disabilities to settle such differences through alternative methods of dispute resolution, providing that such efforts do not deprive any individual of legal rights provided by the statute.
+The EEOC also recognizes that differences and disputes about ADA requirements may arise between employers and people with disabilities as a result of misunderstandings. Such disputes frequently can be resolved more effectively through informal negotiation or mediation procedures, rather than through the formal enforcement process of the ADA. Accordingly, the EEOC will encourage efforts of employers and individuals with disabilities to settle such differences through alternative methods of dispute resolution, providing that such efforts do not deprive any individual of legal rights provided by the statute.
 
 ## More Questions and Answers About the ADA
 
 **_Q. Is an employer required to provide reasonable accommodation when I apply for a job?_**
 
-A. Yes. Applicants, as well as employees, are entitled to reasonable accommodation. For example, an employer may be required to provide a sign language interpreter during a job interview for an applicant who is deaf or hearing impaired, unless to do so would impose an undue hardship.
+A. Yes. Applicants, as well as employees, are entitled to reasonable accommodation. For example, an employer may be required to provide a sign language interpreter during a job interview for an applicant who is deaf or hearing impaired, unless doing so would impose an undue hardship.
 
 **_Q. Should I tell my employer that I have a disability?_**
 
@@ -209,23 +210,23 @@ A. If you think you will need a reasonable accommodation in order to participate
 
 **_Q. Do I have to pay for a needed reasonable accommodation?_**
 
-A. No. The ADA requires that the employer provide the accommodation unless to do so would impose an undue hardship on the operation of the employer's business. If the cost of providing the needed accommodation would be an undue hardship, the employee must be given the choice of providing the accommodation or paying for the portion of the accommodation that causes the undue hardship.
+A. No. The ADA requires that the employer provide the accommodation unles doing so would impose an undue hardship on the operation of the employer's business. If the cost of providing the needed accommodation would be an undue hardship, the employee must be given the choice of providing the accommodation or paying for the portion of the accommodation that causes the undue hardship.
 
 **_Q. Can an employer lower my salary or pay me less than other employees doing the same job because I need a reasonable accommodation?_**
 
 A. No. An employer cannot make up the cost of providing a reasonable accommodation by lowering your salary or paying you less than other employees in similar positions.
 
-**_Q. Does an employer have to make non-work areas used by employees, such as cafeterias, lounges, or employer-provided transportation accessible to people with disabilities?_**
+**_Q. Does an employer have to make non-work areas used by employees – such as cafeterias, lounges, or employer-provided transportation – accessible to people with disabilities?_**
 
-A. Yes. The requirement to provide reasonable accommodation covers all services, programs, and non-work facilities provided by the employer. If making an existing facility accessible would be an undue hardship, the employer must provide a comparable facility that will enable a person with a disability to enjoy benefits and privileges of employment similar to those enjoyed by other employees, unless to do so would be an undue hardship.
+A. Yes. The requirement to provide reasonable accommodation covers all services, programs, and non-work facilities provided by the employer. If making an existing facility accessible would be an undue hardship, the employer must provide a comparable facility that will enable a person with a disability to enjoy the benefits and privileges of employment similar to those enjoyed by other employees, unless to do so would also be an undue hardship.
 
 **_Q. If an employer has several qualified applicants for a job, is the employer required to select a qualified applicant with a disability over other applicants without a disability?_**
 
-A. No. The ADA does not require that an employer hire an applicant with a disability over other applicants because the person has a disability. The ADA only prohibits discrimination on the basis of disability. It makes it unlawful to refuse to hire a qualified applicant with a disability because he is disabled or because a reasonable accommodation is required to make it possible for this person to perform essential job functions.
+A. No. The ADA does not require that an employer hire an applicant with a disability over other applicants because the person has a disability. The ADA only prohibits discrimination on the basis of disability. It makes it unlawful to refuse to hire a qualified applicant with a disability because they are disabled or because a reasonable accommodation is required to make it possible for this person to perform essential job functions.
 
-**_Q. Can an employer refuse to hire me because he believes that it would be unsafe, because of my disability, for me to work with certain machinery required to perform the essential functions of the job?_**
+**_Q. Can an employer refuse to hire me because they believe that it would be unsafe, because of my disability, for me to work with certain machinery required to perform the essential functions of the job?_**
 
-A. The ADA permits an employer to refuse to hire an individual if she poses a direct threat to the health or safety of herself or others. A direct threat means a significant risk of substantial harm. The determination that there is a direct threat must be based on objective, factual evidence regarding an individual's present ability to perform essential functions of a job. An employer cannot refuse to hire you because of a slightly increased risk or because of fears that there might be a significant risk sometime in the future. The employer must also consider whether a risk can be eliminated or reduced to an acceptable level with a reasonable accommodation.
+A. The ADA permits an employer to refuse to hire an individual if they pose a direct threat to the health or safety of their own self or others. A direct threat means a significant risk of substantial harm. The determination that there is a direct threat must be based on objective, factual evidence regarding an individual's present ability to perform essential functions of a job. An employer cannot refuse to hire you because of a slightly increased risk or because of fears that there might be a significant risk sometime in the future. The employer must also consider whether a risk can be eliminated or reduced to an acceptable level with a reasonable accommodation.
 
 **_Q. Can an employer offer a health insurance policy that excludes coverage for pre-existing conditions?_**
 
@@ -243,13 +244,13 @@ Many people with common mental health conditions have a right to a reasonable ac
 
 **1. What Is a Reasonable Accommodation?**
 
-A reasonable accommodation is a change in the way things are normally done at work that enables an individual to do a job, apply for a job, or enjoy equal access to a job's benefits and privileges. Common reasonable accommodations include **altered break and work schedules** (e.g., scheduling work around medical appointments), **time off for treatment**, **changes in supervisory methods** (e.g., providing written instructions, or breaking tasks into smaller parts), **eliminating a non-essential (or marginal) job function that someone cannot perform because of a disability**, and **telework**. Where an employee has been working successfully in a job but can no longer do so because of a disability, the ADA also may require **reassignment to a vacant position** that the employee can perform. These are just examples; employees are free to request, and employers are free to suggest, other modifications or changes.
+A reasonable accommodation is a change in the way things are normally done at work that enables an individual to do a job, apply for a job, or enjoy equal access to a job's benefits and privileges. Common reasonable accommodations include **altered break and work schedules** (e.g., scheduling work around medical appointments), **time off for treatment**, **changes in supervisory methods** (e.g., providing written instructions, or breaking tasks into smaller parts), **eliminating a non-essential (or marginal) job function that someone cannot perform because of a disability**, and **telework**. Where an employee has been working successfully in a job but can no longer do so because of a disability, the ADA also may require **reassignment to a vacant position** that the employee can perform. These are just examples, and employees are free to request – and employers are free to suggest – other modifications or changes.
 
-**2. Do I have to Have a Particular Condition to Get a Reasonable Accommodation?**
+**2. Do I Have to Have a Particular Condition to Get a Reasonable Accommodation?**
 
 A reasonable accommodation may be obtained for any condition that would, if left untreated, "substantially limit" one or more major life activities, which include brain/neurological functions and activities such as communicating, concentrating, eating, sleeping, regulating thoughts or emotions, caring for oneself, and interacting with others. (The client does not actually have to stop treatment. The client's symptoms in the absence of treatment are merely considered in order to determine whether the person has a "disability" under the ADA.)
 
-**A condition does not have to result in a high degree of functional limitation to be "substantially limiting."**  It may qualify by, for example, making activities more difficult, uncomfortable, or time-consuming to perform compared to the way that most people perform them. Further, if the client's symptoms come and go, what matters is how limiting they would be when present. Federal regulations say that some disorders should easily be found to be disabilities, including major depressive disorder, bipolar disorder, post-traumatic stress disorder, obsessive compulsive disorder, and schizophrenia. Other conditions may also qualify depending on the individual's symptoms. Additionally, an individual may qualify for a reasonable accommodation if he or she has had a substantially limiting impairment in the past. 
+**A condition does not have to result in a high degree of functional limitation to be "substantially limiting".**  It may qualify by, for example, making activities more difficult, uncomfortable, or time-consuming to perform compared to the way that most people perform them. Further, if the client's symptoms come and go, what matters is how limiting they would be when present. Federal regulations say that some disorders should easily be found to be disabilities, including major depressive disorder, bipolar disorder, post-traumatic stress disorder, obsessive compulsive disorder, and schizophrenia. Other conditions may also qualify depending on the individual's symptoms. Additionally, an individual may qualify for a reasonable accommodation if he or she has had a substantially limiting impairment in the past. 
 
 The ADA, however, does not protect individuals currently engaging in the illegal use of drugs, where an employer takes an action based on such use. Someone with alcoholism or who was addicted to drugs in the past may be entitled to a reasonable accommodation, such as time off for treatment. However, the ADA specifically says that employers are not required to tolerate employees using or being under the influence of alcohol or illegal drugs on the job, or unsatisfactory performance or conduct relating to the use of alcohol or illegal drugs.
 
@@ -259,11 +260,11 @@ If you have a disability, the employer is legally required to provide a reasonab
 
 **4. When Is It Important to Request a Reasonable Accommodation?**
 
-Because an employer does not have to excuse failure to meet production standards that are consistently applied, even if the difficulty was caused by a health condition or the side effects of medication, it could be in your  interest to request an accommodation before any problems at work occur or become worse. An accommodation may help to prevent discipline or even termination by enabling you to perform the job successfully.
+Because an employer does not have to excuse failure to meet production standards that are consistently applied, even if the difficulty was caused by a health condition or the side effects of medication, it could be in your interest to request an accommodation before any problems at work occur or become worse. An accommodation may help to prevent discipline or even termination by enabling you to perform the job successfully.
 
 **5. How Can I Get a Reasonable Accommodation?**
 
-You may ask you to document his or her condition and its associated functional limitations, and to explain how a requested accommodation would help. The employer, perhaps in consultation with a health care professional, will use this information to evaluate whether to provide a reasonable accommodation, and if so which one. The person evaluating the accommodation request also may contact you to ask for clarification of what you have written, or to provide you with additional information to consider. For example, you may be told about a particular job function and asked whether the requested accommodation would help you to perform it, or you may be asked whether a different accommodation would be effective where, for example, the requested accommodation would be too difficult or costly for the employer to provide.
+You may be asked to document your condition and its associated functional limitations as well as to explain how a requested accommodation would help. The employer, perhaps in consultation with a health care professional, will use this information to evaluate whether to provide a reasonable accommodation, and if so, which one. The person evaluating the accommodation request may also contact you to ask for clarification of what you have written or to provide you with additional information to consider. For example, you may be told about a particular job function and asked whether the requested accommodation would help you to perform it, or you may be asked whether a different accommodation would be effective where, for example, the requested accommodation would be too difficult or costly for the employer to provide.
 
 Employers are required to keep all information related to reasonable accommodation requests confidential.
 
@@ -273,18 +274,18 @@ The ADA does not alter a health provider's ethical or legal obligations. You sho
 
 **7. Could an Employer Discriminate Against Me Because of the Information I Provide?**
 
-The ADA prohibits employers from harassing you because of a mental health condition, and from terminating or taking other adverse actions against you because of a mental health condition. Therefore, unless the information you provide shows that you are unable to perform the essential duties of the job <span class="c1 c39">even with a reasonable accommodation, the employer legally cannot take adverse action based on the information.
+The ADA prohibits employers from harassing you because of a mental health condition and from terminating or taking other adverse actions against you because of a mental health condition. Therefore, unless the information you provide shows that you are unable to perform the essential duties of the job even with a reasonable accommodation, the employer legally cannot take adverse action based on the information.
 
-However, employers sometimes discriminate illegally. You therefore may wish to discuss with an attorney or other qualified legal professional the risks associated with disclosing the condition (such as potential illegal discrimination), and with not disclosing it (such as not having a reasonable accommodation that may be necessary to do the job).
+However, employers sometimes discriminate illegally. You, therefore, may wish to discuss with an attorney, or other qualified legal professional, the risks associated with disclosing the condition (such as potential illegal discrimination) as well as with not disclosing it (such as not having a reasonable accommodation that may be necessary to do the job).
 
 **8. What Kind of Documentation Would Be Helpful?**
 
-Employers may require documentation that establishes how your condition limits job performance, and how an accommodation would help to overcome the limitations. However, you should not simply provide your medical records, because they will likely contain unnecessary information. Documentation, such as a note or letter from your doctor, is most likely to help you obtain a reasonable accommodation if it explains, using plain language, the following:
+Employers may require documentation that establishes how your condition limits job performance and how an accommodation would help to overcome the limitations. However, you should not simply provide your medical records, because they will likely contain unnecessary information. Documentation, such as a note or letter from your doctor, is most likely to help you obtain a reasonable accommodation if it explains, using plain language, the following:
 
 * __Your doctor's professional qualifications and the nature and length of their relationship with you.__ A brief statement is sufficient.
-* __The nature of your condition.__ Based on their professional judgment, your doctor should state the nature of the your mental health condition, even if you are currently not experiencing symptoms (e.g., because of the use of medication or because the condition is in remission). It may be sufficient to state the general type of disorder (e.g., "an anxiety disorder"), or to describe how the condition substantially limits a brain/neurological function or some other major life activity.
+* __The nature of your condition.__ Based on their professional judgment, your doctor should state the nature of your mental health condition, even if you are currently not experiencing symptoms (e.g., because of the use of medication or because the condition is in remission). It may be sufficient to state the general type of disorder (e.g., "an anxiety disorder") or to describe how the condition substantially limits a brain/neurological function or some other major life activity.
 * __Your functional limitations in the absence of treatment.__ Describe the extent to which the condition _would_ limit a brain or neurological function, or another major life activity (e.g., concentrating, interacting with others, eating, sleeping, learning, reading, communicating, or thinking), in the absence of therapy, medication, and any other treatment. If the symptoms of the condition come and go or are in remission, describe the limitations during an active episode. It is sufficient to establish substantial limitation of one major life activity.
-* __The need for a reasonable accommodation.__ Explain how your condition makes changes at work necessary. For example, if you need an accommodation to perform a particular job function, you should explain how your symptoms - _as they actually are, with treatment_ - make performing the function more difficult. If necessary, provide a description of your job duties. _Limit your discussion to the specific problems that may be helped by a reasonable accommodation. Also explain to the employer why you may need an accommodation_ such as a schedule change (e.g., to attend a therapy appointment during the workday) or time off (e.g., to adjust to a new medication, receive treatment, or recover).
+* __The need for a reasonable accommodation.__ Explain how your condition makes changes at work necessary. For example, if you need an accommodation to perform a particular job function, you should explain how your symptoms - _as they actually are, with treatment_ - make performing the function more difficult. If necessary, provide a description of your job duties. _Limit your discussion to the specific problems that may be helped by a reasonable accommodation. Also, explain to the employer why you may need an accommodation,_ such as a schedule change (e.g., to attend a therapy appointment during the workday) or time off (e.g., to adjust to a new medication, receive treatment, or recover).
 * __Suggested Accommodation(s).__ If you are aware of an effective accommodation, you may suggest it. Do not overstate the need for a particular accommodation, in case an alternative is necessary.
 
 {pagebreak}
@@ -292,29 +293,29 @@ Employers may require documentation that establishes how your condition limits j
 # Section III: Accommodations for Mental Health Impairments
 *(From the Job Accommodation Network)*
 
-## What are mental health impairments?
+## What Are Mental Health Impairments?
 
-The DSM-5 (the most recent version of the <span class="c5 c34">Diagnostic and Statistical Manual of Mental Disorders (DSM), which is published by the American Psychiatric Association (APA), provides diagnostic criteria for mental health impairments. According to the DSM-5 (APA, 2013), a mental health impairment is:
+The DSM-5 is the most recent version of the Diagnostic and Statistical Manual of Mental Disorders (DSM), which is published by the American Psychiatric Association (APA) and which provides diagnostic criteria for mental health impairments. According to the DSM-5 (APA, 2013):
 
-* a mental disorder is a syndrome characterized by clinically significant disturbance in an individual's cognition, emotion regulation, or behavior that reflects a dysfunction in the psychological, biological, or developmental processes underlying mental functioning.
+* A mental disorder is a syndrome characterized by clinically significant disturbance in an individual's cognition, emotion regulation, or behavior that reflects a dysfunction in the psychological, biological, or developmental processes underlying mental functioning.
 * Mental disorders are usually associated with significant distress in social, occupational, or other important activities.
-* An expectable or culturally approved response to a common stressor or loss, such as the death of a loved one, is not a mental disorder.
+* An expectable or culturally-approved response to a common stressor or loss, such as the death of a loved one, is not a mental disorder.
 * Socially deviant behavior (e.g., political, religious, or sexual) and conflicts that are primarily between the individual and society are not mental disorders unless the deviance or conflict results from a dysfunction in the individual, as described above.
 
 The National Alliance on Mental Illness (NAMI) (n.d.a) defines a mental health impairment as:
 
-* a medical condition that disrupt a person's thinking, feeling, mood, ability to relate to others, and daily functioning. Just as diabetes is a disorder of the pancreas, mental illnesses are medical conditions that often result in a diminished capacity for coping with the ordinary demands of life.
+* a medical condition that disrupts a person's thinking, feeling, mood, ability to relate to others, and daily functioning. Just as diabetes is a disorder of the pancreas, mental illnesses are medical conditions that often result in a diminished capacity for coping with the ordinary demands of life.
 
-#### How prevalent are mental health impairments?
+#### How Prevalent Are Mental Health Impairments?
 
 Approximately 61.5 million Americans, one in four adults, experience a mental health impairment in a given year (National Alliance on Mental Illness, 2013). One in seventeen individuals lives with a serious mental health impairment, such as schizophrenia, major depression, or bipolar disorder (National Institute of Mental Health, 2013).
 
-#### What are some common mental health impairments?
+#### What Are Some Common Mental Health Impairments?
 
 The [Job Accommodation Network](http://www.askjan.org) (JAN) receives numerous accommodation questions related to individuals with mental health impairments working successfully. Although there are various definitions and lists of impairments, this document covers those that are received the most by JAN. NAMI provides useful definitions of mental health impairments and statistics on their prevalence. The following (NAMI, n.d.b) is a summary of these:
 
 * **Bipolar disorder**, sometimes referred to as manic depression, "is a medical illness that causes extreme shifts in mood, energy, and functioning. Bipolar disorder is a chronic and generally life-long condition with recurring episodes of mania and depression that can last from days to months that often begin in adolescence or early adulthood, and occasionally even in children."
- * Estimates indicate approximately 2.6% of American adults, or 6.1 million people, have bipolar disorder (NAMI, 2013)
+ * Estimates indicate approximately 2.6% of American adults, or 6.1 million people, have bipolar disorder (NAMI, 2013).
 
 * **Borderline personality disorder (BPD)** is "an often misunderstood, serious mental illness characterized by pervasive instability in moods, interpersonal relationships, self image, and behavior. It is a disorder of emotional dysregulation. This instability often disrupts family and work, long-term planning, and the individual's sense of self-identity."
  * Estimates indicate that 4-5% of American adults have BPD (NAMI, 2013).
@@ -328,7 +329,7 @@ The [Job Accommodation Network](http://www.askjan.org) (JAN) receives numerous a
 * **Panic disorder** occurs when a person "experiences recurrent panic attacks, at least one of which leads to at least a month of increased anxiety or avoidant behavior. Panic disorder may also be indicated if a person experiences fewer than four panic episodes but has recurrent or constant fears of having another panic attack."
  * Estimates indicate that 6 million American adults have panic disorder (NAMI, 2013).
 
-* **Post traumatic stress disorder (PTSD)** is "an anxiety disorder that can occur after someone experiences a traumatic event that caused intense fear, helplessness, or horror. While it is common to experience a brief state of anxiety or depression after such occurrences, people with PTSD continually re-experience the traumatic event; avoid individual's, thoughts, or situations associated with the event; and have symptoms of excessive emotions. People with this disorder have these symptoms for longer than one month and cannot function as well as they did before the traumatic event. PTSD symptoms usually appear within three months of the traumatic experience; however, they sometimes occur months or even years later."
+* **Post traumatic stress disorder (PTSD)** is "an anxiety disorder that can occur after someone experiences a traumatic event that caused intense fear, helplessness, or horror. While it is common to experience a brief state of anxiety or depression after such occurrences, people with PTSD continually re-experience the traumatic event; avoid individuals, thoughts, or situations associated with the event; and have symptoms of excessive emotions. People with this disorder have these symptoms for longer than one month and cannot function as well as they did before the traumatic event. PTSD symptoms usually appear within three months of the traumatic experience; however, they sometimes occur months or even years later."
  * Estimates indicate that 7.7 million American adults have PTSD; this includes 15-30% of veterans (NAMI, 2013).
 
 * **Schizophrenia** "often interferes with a person's ability to think clearly; to distinguish reality from fantasy; and to manage emotions, make decisions, and relate to others."
