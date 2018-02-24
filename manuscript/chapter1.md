@@ -338,13 +338,13 @@ The [Job Accommodation Network](http://www.askjan.org) (JAN) receives numerous a
 * **Seasonal affective disorder (SAD)** is "characterized by recurrent episodes of depression – usually in late fall and winter – alternating with periods of normal or high mood the rest of the year."
  * Note: SAD is not regarded as a separate disorder by the DSM-5 (APA, 2013), but it is an added descriptor for the pattern of depressive episodes in patients with major depression or bipolar disorder.
 
-#### Are mental health impairments considered disabilities under the ADA?
+#### Are Mental Health Impairments Considered Disabilities Under the ADA?
 
 The ADA does not contain a list of medical conditions that constitute disabilities. Instead, the ADA has a general definition of disability that each person must meet (EEOC Regulations . . ., 2011). Therefore, some people with mental health impairments will have a disability under the ADA and some will not.
 
 A person has a disability if he/she has a physical or mental impairment that substantially limits one or more major life activities, a record of such an impairment, or is regarded as having an impairment (EEOC Regulations . . . , 2011). For more information about how to determine whether a person has a disability under the ADA, visit [http://AskJAN.org/corner/vol05iss04.htm](http://askjan.org/corner/vol05iss04.htm).
 
-#### Where can employers get additional information about mental health impairments and the ADA?
+#### Where Can Employers Get Additional Information About Mental Health Impairments and the ADA?
 
 JAN provides resources on mental health impairments and the ADA at [http://AskJAN.org/media/psyc.htm](http://askjan.org/media/psyc.htm). This includes accommodation ideas, information on the ADA and its amendments, and guidance from the EEOC. Two EEOC guidances that may be helpful working through the accommodation process are: The ADA and Psychiatric Disabilities at [http://www.eeoc.gov/policy/docs/psych.html](http://www.eeoc.gov/policy/docs/psych.html) and The ADA: Applying Performance and Conduct Standards to Employees with Disabilities at [http://www.eeoc.gov/facts/performance-conduct.html](http://www.eeoc.gov/facts/performance-conduct.html).
 
@@ -370,27 +370,27 @@ JAN provides resources on mental health impairments and the ADA at [http://AskJA
  * Provide space enclosures, sound absorption panels, or a private office
  * Allow for use of white noise or environmental sound machines
  * Allow the employee to listen to soothing music
- * Provide a noise cancelling headset
+ * Provide a noise-cancelling headset
  * Plan for uninterrupted work time
  * Purchase organizers to reduce clutter
 * Increase natural lighting or provide full spectrum lighting
 * Allow flexible work environment:
-* Flexible scheduling
-* Modified break schedule
-* Work from home/Flexi-place
+ * Flexible scheduling
+ * Modified break schedule
+ * Work from home/Flexi-place
 * Divide large assignments into smaller tasks and goals
 * Use auditory or written cues as appropriate
 * Restructure job to include only essential functions
-* Provide memory aids such as schedulers, organizers, and / or apps
+* Provide memory aids such as schedulers, organizers, and/or apps
 
 #### **Memory:**
 
-* Provide written as well as verbal instructions
+* Provide written and verbal instructions
 * Provide written checklists
 * Use a wall calendar
 * Use a daily or weekly task list
 * Provide verbal prompts and reminders
-* Use electronic organizers, hand held devices, and /or apps
+* Use electronic organizers, hand-held devices, and/or apps
 * Allow the employee to record meetings and trainings
 * Provide printed minutes of meetings and trainings
 * Allow additional training time for new duties
@@ -403,24 +403,24 @@ JAN provides resources on mental health impairments and the ADA at [http://AskJA
 #### **Organization:**
 
 * Use daily, weekly, and monthly task lists
-* Use calendar with automated reminders to highlight meetings and deadlines
-* Use electronic organizers, mobile devices, and / or apps
+* Use a calendar with automated reminders to highlight meetings and deadlines
+* Use electronic organizers, mobile devices, and/or apps
 * Divide large assignments into smaller tasks and goals
-* Use a color coding scheme to prioritize tasks
+* Use a color-coding scheme to prioritize tasks
 * Hire a job coach or a professional organizer
-* Assign a mentor to assist employee
+* Assign a mentor to assist the employee
 
-#### **Time Management / Completing Tasks:**
+#### **Time Management/Completing Tasks:**
 
-* Make daily TO-DO lists and check items off as they are completed
+* Make daily to-do lists and check items off as they are completed
 * Provide organizational tools such as electronic schedulers, recorders, software organizers, calendars, watches, and apps
 * Divide large assignments into smaller tasks and steps
 * Schedule weekly meetings with supervisor, manager, or mentor to determine if goals are being met
 * Remind employee of important deadlines
-* Assign a mentor to assist with determining goals, providing daily guidelines, reminding of important deadlines
+* Assign a mentor to assist with determining goals, providing daily guidelines, and giving reminders for important deadlines
 * Consider providing training on time management
 
-#### **Stress / Emotions:**
+#### **Stress/Emotions:**
 
 * Encourage use of stress management techniques to deal with frustration
 * Allow the presence of a support animal
@@ -428,17 +428,17 @@ JAN provides resources on mental health impairments and the ADA at [http://AskJA
 * Use a mentor or supervisor to alert the employee when his/her behavior is becoming unprofessional or inappropriate
 * Assign a supervisor, manager, or mentor to answer the employee's questions 
 * Restructure job to include only essential functions during times of stress
-* Refer to counseling, employee assistance programs (EAP)
+* Refer to counseling and/or employee assistance programs (EAP)
 * Provide backup coverage for when the employee needs to take breaks
 * Allow flexible work environment:
-* Flexible scheduling
+* Allow Flexible scheduling:
  * Modified break schedule
  * Leave for counseling
  * Work from home/Flexi-place
 
 #### **Panic Attacks:**
 
-* Allow the employee to take a break and go to a place where s/he feels comfortable to use relaxation techniques or contact a support person
+* Allow the employee to take a break and go to a place where she/he feels comfortable to use relaxation techniques or contact a support person
 * Identify and remove environmental triggers such as particular smells or noises
 * Allow the presence of a support animal
 
@@ -459,7 +459,7 @@ JAN provides resources on mental health impairments and the ADA at [http://AskJA
  * Work from home/Flexi-place
 * Provide a goal-oriented workload
 * Reduce or eliminate physical exertion and workplace stress
-* Implement ergonomic workstation design
+* Implement an ergonomic workstation design
 
 #### **Attendance:**
 
@@ -482,23 +482,23 @@ JAN provides resources on mental health impairments and the ADA at [http://AskJA
 
 #### **Working Effectively:**
 
-Two common issues that JAN receives inquiries on are: (1) what accommodations will work for individuals with mental health impairments when workplaces are implementing substantial changes, and (2) what accommodations will help supervisors work effectively with individuals with mental health impairments. Many accommodation ideas are born from effective management techniques. When organizations are implementing workplace changes, it is important that key personnel recognize that a change in the environment or in supervisors may be difficult. Maintaining open channels of communication to ensure any transitions are smooth, and providing short weekly or monthly meetings with employees to discuss workplace issues can be helpful.
+Two common issues that JAN receives inquiries on are: (1) what accommodations will work for individuals with mental health impairments when workplaces are implementing substantial changes, and (2) what accommodations will help supervisors work effectively with individuals with mental health impairments. Many accommodation ideas are born from effective management techniques. When organizations are implementing workplace changes, it is important that key personnel recognize that a change in the environment or in supervisors may be difficult. Maintaining open channels of communication to ensure any transitions are smooth and providing short weekly or monthly meetings with employees to discuss workplace issues can be helpful.
 
 Supervisors can also implement management techniques that support an inclusive workplace culture while simultaneously providing accommodations. Techniques include the following:
 
-* Provide positive praise and reinforcement,
-* Provide day-to-day guidance and feedback,
-* Provide written job instructions via email,
-* Develop clear expectations of responsibilities and the consequences of not meeting performance standards,
-* Schedule consistent meetings with employee to set goals and review progress,
-* Allow for open communication,
-* Establish written long term and short term goals,
-* Develop strategies to deal with conflict,
-* Develop a procedure to evaluate the effectiveness of the accommodation,
-* Educate all employees on their right to accommodations,
-* Provide sensitivity training to coworkers and supervisors,
-* Do not mandate that employees attend work related social functions, and
-* Encourage all employees to move non-work-related conversations out of work areas.
+* Provide positive praise and reinforcement
+* Provide day-to-day guidance and feedback
+* Provide written job instructions via email
+* Develop clear expectations of responsibilities and clear consequences of not meeting performance standards
+* Schedule consistent meetings with the employee to set goals and review progress
+* Allow for open communication
+* Establish written long term and short term goals
+* Develop strategies to deal with conflict
+* Develop a procedure to evaluate the effectiveness of the accommodation
+* Educate all employees on their right to accommodations
+* Provide sensitivity training to coworkers and supervisors
+* Do not mandate that employees attend work-related social functions
+* Encourage all employees to move non-work-related conversations out of work areas
 
 {pagebreak}
 
@@ -509,7 +509,7 @@ P.O. Box 7033
 Lawrence, Kansas 66044
 (800) 669-4000 (Voice), (800) 669-6820 (TDD)
 
-For more specific information about ADA requirements affecting _public accommodations and State and local government services_ contact:
+For more specific information about the ADA requirements affecting _public accommodations as well as State and local government services_, contact:
 
 **Department of Justice**
 Office on the Americans with Disabilities Act
@@ -520,7 +520,7 @@ Washington, DC 20035-6118
 (202) 514-0381 (TDD)
 (202) 514-0383 (TDD)
 
-For more specific information about requirements for _accessible design in new construction and alterations_ contact:
+For more specific information about requirements for _accessible design in new construction and alterations_, contact:
 
 **Architectural and Transportation Barriers Compliance Board**
 1111 18th Street, NW
@@ -529,7 +529,7 @@ Washington, DC 20036
 800-USA-ABLE
 800-USA-ABLE (TDD)
 
-For more specific information about ADA requirements affecting _transportation_ contact:
+For more specific information about ADA requirements affecting _transportation_, contact:
 
 **Department of Transportation**
 400 Seventh Street, SW
