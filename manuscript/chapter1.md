@@ -12,6 +12,22 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 {pagebreak}
 
+# Open Sourcing Mental Illness Diamond Patron
+
+![](images/cakedc-logo-big.jpg)
+
+https://www.cakedc.com/
+
+{pagebreak}
+
+# Open Sourcing Mental Illness Bronze Partner
+
+![](images/docker-logo-big.png)
+
+https://www.docker.com/
+
+{pagebreak}
+
 # Americans with Disabilities Act Cheat Sheet
 
 ## What Is the ADA?
